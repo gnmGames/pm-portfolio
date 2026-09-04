@@ -2,3 +2,8 @@
 Thumbs.db
 desktop.ini
 *.log
+
+# 작업용 문서 — 공개 저장소에 올리지 않는다
+기획안.md
+노션_문안.md
+*.md
